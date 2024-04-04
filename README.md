@@ -1,24 +1,22 @@
-<h1 align="center">Site do filme Mario Bros</h1>
+<h1> Site do filme Mario Bros </h1>
 
-<p align="center"><img src=".github/preview.png" width="100%" /></p>
+<p>Programa promovido pela Rocketseat para ensino de tecnologias WEB.</p>
 
-## 💻 Projeto
-Site do filme **Mario Bros** 
 
-## 🚀 Tecnologias
+<br>
+
+<p align="center">
+  <img alt="Calculator" src="Captura de Tela 2024-04-04 às 14.31.02.png" width="50%">
+</p>
+
+## Tecnologias
 - HTML
 - CSS
 - [AOS Animate](https://michalsnik.github.io/aos/)
 
-## 📔 Conhecimentos abordados
-- [x] Uso semântico do HTML
-- [x] Carregamento de video no background
-- [x] Váriaveis do css no `:root`
-- [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
-- [x] Uso do CSS Flexbox
-- [x] Efeitos com a propriedade `transform` do css
 
-## 📺 Tutorial no Youtube
-<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
- <img src="https://img.youtube.com/vi/6Ok-kUrBGp8/maxresdefault.jpg" width="100%" height="auto" />
-</a>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">by dellconte</p>
