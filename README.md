@@ -1,12 +1,13 @@
 <h1> Site do filme Mario Bros </h1>
 
-<p>Programa promovido pela Rocketseat para ensino de tecnologias WEB.</p>
+<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">Link para o Tutorial</a>
+
 
 
 <br>
 
 <p align="center">
-  <img alt="Calculator" src="Captura de Tela 2024-04-04 às 14.31.02.png" width="50%">
+  <img alt="Calculator" src="Captura de Tela 2024-04-04 às 14.31.02.png" width="60%">
 </p>
 
 ## Tecnologias
